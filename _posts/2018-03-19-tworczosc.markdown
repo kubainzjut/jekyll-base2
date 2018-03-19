@@ -7,8 +7,9 @@ categories: jekyll update
 
 ** Dwie części treningu twórczość ** :
 
-  * narzędzia
-  * zdolności
+  * rozwój twórczych  - trening psychologiczny
+  * narzędzia wspierające twórcze rozwiązywanie problemów
+
 
 
 [jekyll]:      http://jekyllrb.com
