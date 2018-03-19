@@ -5,18 +5,26 @@ date:   2017-02-01 13:46:40
 categories: jekyll update
 ---
 
-Jekyll also offers powerful support for code snippets:
+*this is in italic*  and _so is this_
 
-{% highlight ruby %}
-def print_hi(name)
+**this is in bold**  and __so is this__
 
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+***this is bold and italic***  and ___so is this___
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+* an asterisk starts an unordered list
+* and this is another item in the list
++ or you can also use the + character
+- or the - character
+
+To start an ordered list, write this:
+
+1. this starts a list *with* numbers
++  this will show as number "2"
+*  this will show as number "3."
+9. any number, +, -, or * will keep the list going.
+    * just indent by 4 spaces (or tab) to make a sub-list
+        1. keep indenting for more sub lists
+    * here i'm back to the second level
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
