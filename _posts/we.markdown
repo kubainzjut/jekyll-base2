@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Witaj odkrywco 22!"
-date:   2015-02-22 13:46:40
+date:   2015-05-22 13:46:40
 categories: jekyll update
 ---
 
