@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Trening twórczości"
-date:   2018-03-19 13:46:40
+date:   2018-03-18 13:46:40
 categories: jekyll update
 ---
 **Techniki styulacji myślenia można podzielić na dwie cześci** :
 
 * narzędzia do rozwiązywania problemów: metody i reguły np. burza mózgów
 * narzędzie rozwijąjące zdolności myślenia twórczego
-
+ss
 
 *this is in italic*  and _so is this_
 
