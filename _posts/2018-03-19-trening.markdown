@@ -1,9 +1,14 @@
 ---
 layout: post
 title:  "Trening twórczości"
-date:   2017-02-01 13:46:40
+date:   2018-03-19 13:46:40
 categories: jekyll update
 ---
+**Techniki styulacji myślenia można podzielić na dwie cześci** :
+
+* narzędzia do rozwiązywania problemów: metody i reguły np. burza mózgów
+* narzędzie rozwijąjące zdolności myślenia twórczego
+
 
 *this is in italic*  and _so is this_
 
@@ -25,6 +30,11 @@ To start an ordered list, write this:
     * just indent by 4 spaces (or tab) to make a sub-list
         1. keep indenting for more sub lists
     * here i'm back to the second level
+
+**Techniki styulacji myślenia można podzielić na dwie cześci** :
+
+* narzędzia do rozwiązywania problemów: metody i reguły np. burza mózgów
+* narzędzie rozwijąjące zdolności myślenia twórczego
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
