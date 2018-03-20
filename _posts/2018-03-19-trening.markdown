@@ -9,8 +9,6 @@ categories: jekyll update
   * rozwój twórczych  - trening psychologiczny
   * narzędzia wspierające twórcze rozwiązywanie problemów
 
-
-[[img src=./assets/01.jpg]]
-
+![obazek](/assets/01.png){:class="img-responsive"}
 
 [jekyll-help]: https://github.com/jekyll/jekyll-help
