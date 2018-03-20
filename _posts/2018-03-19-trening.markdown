@@ -4,11 +4,17 @@ title:  "Trening twórczości"
 date:   2018-03-18 13:46:40
 categories: jekyll update
 ---
-**Techniki styulacji myślenia można podzielić na dwie cześci** :
+**Dwie części treningu twórczość** :
 
-* narzędzia do rozwiązywania problemów: metody i reguły np. burza mózgów
-* narzędzie rozwijąjące zdolności myślenia twórczego
-ss
+  *rozwój twórczych  - trening psychologiczny
+  *narzędzia wspierające twórcze rozwiązywanie problemów
+
+
+
+
+
+
+
 
 *this is in italic*  and _so is this_
 
