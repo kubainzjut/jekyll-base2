@@ -6,9 +6,8 @@ categories: jekyll update
 ---
 **Dwie części treningu twórczość** :
 
-  *rozwój twórczych  - trening psychologiczny
-  *narzędzia wspierające twórcze rozwiązywanie problemów
-
+  * rozwój twórczych  - trening psychologiczny
+  * narzędzia wspierające twórcze rozwiązywanie problemów
 
 
 
