@@ -2,7 +2,7 @@
 layout: post
 title:  "Nie bądź mistrzem nawyku"
 date:   2018-04-02 10:00:40
-categories: osobowość twórcza
+categories: jekyll update
 ---
 **Nawykowe rutynowe działania nie sprzyjają rozwojowi twórczych cech**
 
